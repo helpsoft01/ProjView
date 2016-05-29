@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;ProjView&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Librarys/Go-Redis" />
+      <root url="file://$PROJECT_DIR$/../../Librarys/websocket" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
